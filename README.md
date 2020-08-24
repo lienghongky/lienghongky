@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on *
+- 🌱 I’m currently learning *
+- 👯 I’m looking to collaborate on cool project
+- 🤔 I’m looking for help with *
+- 💬 Ask me about: Sci-fi, Fiction
+- 📫 How to reach me: [VISIT](https://hongky.netlify.app/ "My Profile site feel free to visit").
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm me
 -->
+
+
+![Program](/sh.png)
+[VISIT](https://hongky.netlify.app/ "My Profile site feel free to visit").
+
+
+
+# lienghongky
