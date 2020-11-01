@@ -13,7 +13,7 @@
 
 
 ![Program](/sh.png)
-[VISIT](https://hongky.netlify.app/ "My Profile site feel free to visit").
+[VISIT](https://hongky.netlify.app/ "https://hongky.netlify.app/").
 
 
 
