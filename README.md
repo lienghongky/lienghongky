@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### ME :
-- 🔭 I’m currently working on * [coxomo.com](https://coxomo.com").
+- 🔭 I’m currently working on * [coxomo.com](https://coxomo.com)
 - 🌱 I’m currently learning *
 - 👯 I’m looking to collaborate on cool project
 - 🤔 I’m looking for help with *
