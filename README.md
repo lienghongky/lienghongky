@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cool project
 - 🤔 I’m looking for help with *
 - 💬 Ask me about: Sci-fi, Fiction
-- 📫 Reach me: [VISIT](https://hongky.netlify.app/ "My Profile site feel free to visit").
+- 📫 Reach me: [[VISIT](https://hongky.netlify.app)](https://hongky.netlify.app/ "My Profile site feel free to visit").
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm me
 
