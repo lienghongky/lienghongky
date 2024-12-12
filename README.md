@@ -12,9 +12,6 @@
 
 
 
-![Program](/sh.png)
-
-
 
 
 # lienghongky
